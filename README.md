@@ -7,7 +7,7 @@ CloudWatch proporciona una visibilidad profunda en los recursos de AWS y las apl
 
 Con CloudWatch, puedes monitorear métricas como la utilización de la CPU, la latencia de la red, el uso de la memoria y la capacidad de almacenamiento de los recursos de AWS, y recibir alertas cuando los valores superan los umbrales configurados. También puedes recopilar, analizar y correlacionar registros de aplicaciones y sistemas en tiempo real y crear paneles personalizados para visualizar datos y tendencias.
 
-## Amazon SNS (Simple Notification Service) 
+## Amazon SNS (Simple Notification Service)  
 es un servicio de mensajería y notificación totalmente administrado y escalable de AWS. Permite a los usuarios enviar mensajes de texto (SMS), mensajes de correo electrónico, notificaciones móviles y mensajes de voz a suscriptores o grupos de suscriptores que estén interesados en recibir notificaciones sobre eventos y actualizaciones de sus aplicaciones o servicios.
 
 
