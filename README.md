@@ -10,4 +10,7 @@ Con CloudWatch, puedes monitorear métricas como la utilización de la CPU, la l
 ## Amazon SNS (Simple Notification Service)  
 es un servicio de mensajería y notificación totalmente administrado y escalable de AWS. Permite a los usuarios enviar mensajes de texto (SMS), mensajes de correo electrónico, notificaciones móviles y mensajes de voz a suscriptores o grupos de suscriptores que estén interesados en recibir notificaciones sobre eventos y actualizaciones de sus aplicaciones o servicios.
 
+SNS se puede integrar fácilmente con otras soluciones de AWS, como CloudWatch, para enviar alertas basadas en eventos de monitoreo, y con AWS Lambda para ejecutar funciones de manera automática en respuesta a las notificaciones recibidas. Además, también se puede utilizar con otras aplicaciones personalizadas, servicios web y sistemas externos.
+
+SNS se puede utilizar para crear y enviar mensajes a través de diferentes protocolos de entrega, como HTTP/HTTPS, correo electrónico, mensajes de texto SMS, mensajes de aplicaciones móviles push, mensajes de voz y más. Además, permite enviar mensajes a múltiples suscriptores al mismo tiempo, lo que lo hace ideal para situaciones en las que se necesite notificar a grandes grupos de personas o sistemas sobre eventos importantes en tiempo real.
 
